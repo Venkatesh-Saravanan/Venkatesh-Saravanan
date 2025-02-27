@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Venkatesh S S</h1>
 
 <p align="center"> I'm a passionate Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I’m enthusiastic about building innovative web applications that enhance user experience and performance. </p> 
