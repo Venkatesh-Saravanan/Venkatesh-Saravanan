@@ -3,7 +3,7 @@
 <p align="center"> I'm a passionate Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I’m enthusiastic about building innovative web applications that enhance user experience and performance. </p> 
 
 <h3 align="left">🌐 About Me</h3> 
-<p> - I have a strong focus on building robust and scalable web applications. <br /> - My expertise lies in HTML, CSS, Bootstrap and React.js. <br /> - I love creating and deploying full-stack applications. <br /> - I’m always eager to explore and integrate modern web technologies. </p> 
+<p> - I have a strong focus on building robust and scalable web applications. <br /> - My expertise lies in both Front-end and Back-end technologies. <br /> - I love creating and deploying full-stack applications. <br /> - I’m always eager to explore and integrate modern web technologies. </p> 
 
 <h3 align="left">💻 Technical Skills</h3>
 <ul> 
